@@ -1,0 +1,7 @@
+E:\oaip\Theme20Pr3\task1\task1\bin\Debug\task1.exe.config
+E:\oaip\Theme20Pr3\task1\task1\bin\Debug\task1.exe
+E:\oaip\Theme20Pr3\task1\task1\bin\Debug\task1.pdb
+E:\oaip\Theme20Pr3\task1\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+E:\oaip\Theme20Pr3\task1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+E:\oaip\Theme20Pr3\task1\task1\obj\Debug\task1.exe
+E:\oaip\Theme20Pr3\task1\task1\obj\Debug\task1.pdb

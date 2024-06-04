@@ -1,0 +1,6 @@
+C:\Users\Kab-35-6\Desktop\Theme22Pr1\task2\task2\bin\Debug\task2.exe.config
+C:\Users\Kab-35-6\Desktop\Theme22Pr1\task2\task2\bin\Debug\task2.exe
+C:\Users\Kab-35-6\Desktop\Theme22Pr1\task2\task2\bin\Debug\task2.pdb
+C:\Users\Kab-35-6\Desktop\Theme22Pr1\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\Theme22Pr1\task2\task2\obj\Debug\task2.exe
+C:\Users\Kab-35-6\Desktop\Theme22Pr1\task2\task2\obj\Debug\task2.pdb
