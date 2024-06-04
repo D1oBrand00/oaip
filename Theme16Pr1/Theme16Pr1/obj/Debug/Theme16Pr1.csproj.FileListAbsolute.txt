@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\Theme16Pr1\Theme16Pr1\bin\Debug\Theme16Pr1.exe.config
+C:\Users\Kab-35-6\Desktop\Theme16Pr1\Theme16Pr1\bin\Debug\Theme16Pr1.exe
+C:\Users\Kab-35-6\Desktop\Theme16Pr1\Theme16Pr1\bin\Debug\Theme16Pr1.pdb
+C:\Users\Kab-35-6\Desktop\Theme16Pr1\Theme16Pr1\obj\Debug\Theme16Pr1.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\Theme16Pr1\Theme16Pr1\obj\Debug\Theme16Pr1.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\Theme16Pr1\Theme16Pr1\obj\Debug\Theme16Pr1.exe
+C:\Users\Kab-35-6\Desktop\Theme16Pr1\Theme16Pr1\obj\Debug\Theme16Pr1.pdb

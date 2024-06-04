@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\Theme17Pr1\obj\Debug\Theme17Pr1.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\Theme17Pr1\obj\Debug\Theme17Pr1.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\Theme17Pr1\bin\Debug\Theme17Pr1.exe.config
+C:\Users\Kab-35-6\Desktop\Theme17Pr1\bin\Debug\Theme17Pr1.exe
+C:\Users\Kab-35-6\Desktop\Theme17Pr1\bin\Debug\Theme17Pr1.pdb
+C:\Users\Kab-35-6\Desktop\Theme17Pr1\obj\Debug\Theme17Pr1.exe
+C:\Users\Kab-35-6\Desktop\Theme17Pr1\obj\Debug\Theme17Pr1.pdb

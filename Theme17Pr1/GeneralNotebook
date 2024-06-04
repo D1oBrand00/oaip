@@ -1,0 +1,29 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Theme17Pr1
+{
+    class GeneralNotebook : Notebook
+    {
+        string coverMaterial;
+
+        public string CoverMaterial { get => coverMaterial; set => coverMaterial = value; }
+        public GeneralNotebook(string name, int k, string coverMaterial) : base(name, k)
+        {
+            this.coverMaterial = coverMaterial;
+        }
+        public new int Cost()
+        {
+            return base.Cost() + 15;
+        }
+        public new void Output()
+        {
+            base.Output();
+            Console.WriteLine($"Материал обложки - {coverMaterial}\nСтоимость с учётом надбавки за обложку - {Cost()}");
+        }
+    }
+
+}
