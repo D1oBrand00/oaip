@@ -1,0 +1,7 @@
+E:\oaip\Theme23Pr1\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+E:\oaip\Theme23Pr1\task4\bin\Debug\task4.exe.config
+E:\oaip\Theme23Pr1\task4\bin\Debug\task4.exe
+E:\oaip\Theme23Pr1\task4\bin\Debug\task4.pdb
+E:\oaip\Theme23Pr1\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+E:\oaip\Theme23Pr1\task4\obj\Debug\task4.exe
+E:\oaip\Theme23Pr1\task4\obj\Debug\task4.pdb
