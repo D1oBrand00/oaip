@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\Theme19Pr4\task1\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\Theme19Pr4\task1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\Theme19Pr4\task1\task1\bin\Debug\task1.exe.config
+C:\Users\Kab-35-6\Desktop\Theme19Pr4\task1\task1\bin\Debug\task1.exe
+C:\Users\Kab-35-6\Desktop\Theme19Pr4\task1\task1\bin\Debug\task1.pdb
+C:\Users\Kab-35-6\Desktop\Theme19Pr4\task1\task1\obj\Debug\task1.exe
+C:\Users\Kab-35-6\Desktop\Theme19Pr4\task1\task1\obj\Debug\task1.pdb
