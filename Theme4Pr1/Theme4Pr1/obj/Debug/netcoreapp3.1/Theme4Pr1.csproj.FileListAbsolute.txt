@@ -1,0 +1,14 @@
+B:\Program Files\source\repos\Theme4Pr1\Theme4Pr1\bin\Debug\netcoreapp3.1\Theme4Pr1.exe
+B:\Program Files\source\repos\Theme4Pr1\Theme4Pr1\bin\Debug\netcoreapp3.1\Theme4Pr1.deps.json
+B:\Program Files\source\repos\Theme4Pr1\Theme4Pr1\bin\Debug\netcoreapp3.1\Theme4Pr1.runtimeconfig.json
+B:\Program Files\source\repos\Theme4Pr1\Theme4Pr1\bin\Debug\netcoreapp3.1\Theme4Pr1.runtimeconfig.dev.json
+B:\Program Files\source\repos\Theme4Pr1\Theme4Pr1\bin\Debug\netcoreapp3.1\Theme4Pr1.dll
+B:\Program Files\source\repos\Theme4Pr1\Theme4Pr1\bin\Debug\netcoreapp3.1\Theme4Pr1.pdb
+B:\Program Files\source\repos\Theme4Pr1\Theme4Pr1\obj\Debug\netcoreapp3.1\Theme4Pr1.csproj.AssemblyReference.cache
+B:\Program Files\source\repos\Theme4Pr1\Theme4Pr1\obj\Debug\netcoreapp3.1\Theme4Pr1.GeneratedMSBuildEditorConfig.editorconfig
+B:\Program Files\source\repos\Theme4Pr1\Theme4Pr1\obj\Debug\netcoreapp3.1\Theme4Pr1.AssemblyInfoInputs.cache
+B:\Program Files\source\repos\Theme4Pr1\Theme4Pr1\obj\Debug\netcoreapp3.1\Theme4Pr1.AssemblyInfo.cs
+B:\Program Files\source\repos\Theme4Pr1\Theme4Pr1\obj\Debug\netcoreapp3.1\Theme4Pr1.csproj.CoreCompileInputs.cache
+B:\Program Files\source\repos\Theme4Pr1\Theme4Pr1\obj\Debug\netcoreapp3.1\Theme4Pr1.dll
+B:\Program Files\source\repos\Theme4Pr1\Theme4Pr1\obj\Debug\netcoreapp3.1\Theme4Pr1.pdb
+B:\Program Files\source\repos\Theme4Pr1\Theme4Pr1\obj\Debug\netcoreapp3.1\Theme4Pr1.genruntimeconfig.cache
