@@ -1,0 +1,7 @@
+D:\Theme12Pr4\bin\Debug\Theme12Pr4.exe.config
+D:\Theme12Pr4\bin\Debug\Theme12Pr4.exe
+D:\Theme12Pr4\bin\Debug\Theme12Pr4.pdb
+D:\Theme12Pr4\obj\Debug\Theme12Pr4.csproj.AssemblyReference.cache
+D:\Theme12Pr4\obj\Debug\Theme12Pr4.csproj.CoreCompileInputs.cache
+D:\Theme12Pr4\obj\Debug\Theme12Pr4.exe
+D:\Theme12Pr4\obj\Debug\Theme12Pr4.pdb
