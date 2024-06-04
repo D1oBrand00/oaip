@@ -1,0 +1,7 @@
+B:\Program Files\source\repos\Theme7Prct4\Theme7Prct4\bin\Debug\Theme7Prct4.exe.config
+B:\Program Files\source\repos\Theme7Prct4\Theme7Prct4\bin\Debug\Theme7Prct4.exe
+B:\Program Files\source\repos\Theme7Prct4\Theme7Prct4\bin\Debug\Theme7Prct4.pdb
+B:\Program Files\source\repos\Theme7Prct4\Theme7Prct4\obj\Debug\Theme7Prct4.csproj.AssemblyReference.cache
+B:\Program Files\source\repos\Theme7Prct4\Theme7Prct4\obj\Debug\Theme7Prct4.csproj.CoreCompileInputs.cache
+B:\Program Files\source\repos\Theme7Prct4\Theme7Prct4\obj\Debug\Theme7Prct4.exe
+B:\Program Files\source\repos\Theme7Prct4\Theme7Prct4\obj\Debug\Theme7Prct4.pdb

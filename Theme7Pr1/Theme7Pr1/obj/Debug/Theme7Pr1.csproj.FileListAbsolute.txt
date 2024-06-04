@@ -1,0 +1,6 @@
+B:\Program Files\source\repos\Theme7Pr1\Theme7Pr1\bin\Debug\Theme7Pr1.exe.config
+B:\Program Files\source\repos\Theme7Pr1\Theme7Pr1\bin\Debug\Theme7Pr1.exe
+B:\Program Files\source\repos\Theme7Pr1\Theme7Pr1\bin\Debug\Theme7Pr1.pdb
+B:\Program Files\source\repos\Theme7Pr1\Theme7Pr1\obj\Debug\Theme7Pr1.csproj.CoreCompileInputs.cache
+B:\Program Files\source\repos\Theme7Pr1\Theme7Pr1\obj\Debug\Theme7Pr1.exe
+B:\Program Files\source\repos\Theme7Pr1\Theme7Pr1\obj\Debug\Theme7Pr1.pdb

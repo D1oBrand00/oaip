@@ -1,0 +1,7 @@
+B:\Program Files\source\repos\Theme9Pr1\Theme9Pr1\obj\Debug\Theme9Pr1.csproj.AssemblyReference.cache
+B:\Program Files\source\repos\Theme9Pr1\Theme9Pr1\obj\Debug\Theme9Pr1.csproj.CoreCompileInputs.cache
+B:\Program Files\source\repos\Theme9Pr1\Theme9Pr1\bin\Debug\Theme9Pr1.exe.config
+B:\Program Files\source\repos\Theme9Pr1\Theme9Pr1\bin\Debug\Theme9Pr1.exe
+B:\Program Files\source\repos\Theme9Pr1\Theme9Pr1\bin\Debug\Theme9Pr1.pdb
+B:\Program Files\source\repos\Theme9Pr1\Theme9Pr1\obj\Debug\Theme9Pr1.exe
+B:\Program Files\source\repos\Theme9Pr1\Theme9Pr1\obj\Debug\Theme9Pr1.pdb

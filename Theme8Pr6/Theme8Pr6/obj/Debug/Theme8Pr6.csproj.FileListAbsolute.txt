@@ -1,0 +1,7 @@
+B:\Program Files\source\repos\Theme8Pr6\Theme8Pr6\bin\Debug\Theme8Pr6.exe.config
+B:\Program Files\source\repos\Theme8Pr6\Theme8Pr6\bin\Debug\Theme8Pr6.exe
+B:\Program Files\source\repos\Theme8Pr6\Theme8Pr6\bin\Debug\Theme8Pr6.pdb
+B:\Program Files\source\repos\Theme8Pr6\Theme8Pr6\obj\Debug\Theme8Pr6.csproj.AssemblyReference.cache
+B:\Program Files\source\repos\Theme8Pr6\Theme8Pr6\obj\Debug\Theme8Pr6.csproj.CoreCompileInputs.cache
+B:\Program Files\source\repos\Theme8Pr6\Theme8Pr6\obj\Debug\Theme8Pr6.exe
+B:\Program Files\source\repos\Theme8Pr6\Theme8Pr6\obj\Debug\Theme8Pr6.pdb
