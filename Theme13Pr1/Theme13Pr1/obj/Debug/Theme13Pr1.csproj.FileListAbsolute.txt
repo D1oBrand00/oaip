@@ -1,0 +1,14 @@
+D:\Theme13Pr1\Theme13Pr1\bin\Debug\Theme13Pr1.exe.config
+D:\Theme13Pr1\Theme13Pr1\bin\Debug\Theme13Pr1.exe
+D:\Theme13Pr1\Theme13Pr1\bin\Debug\Theme13Pr1.pdb
+D:\Theme13Pr1\Theme13Pr1\obj\Debug\Theme13Pr1.csproj.AssemblyReference.cache
+D:\Theme13Pr1\Theme13Pr1\obj\Debug\Theme13Pr1.csproj.CoreCompileInputs.cache
+D:\Theme13Pr1\Theme13Pr1\obj\Debug\Theme13Pr1.exe
+D:\Theme13Pr1\Theme13Pr1\obj\Debug\Theme13Pr1.pdb
+\\Serv31\для сохранения работ\215 группа\Полозюк Даниил\Theme13Pr1\Theme13Pr1\bin\Debug\Theme13Pr1.exe.config
+\\Serv31\для сохранения работ\215 группа\Полозюк Даниил\Theme13Pr1\Theme13Pr1\bin\Debug\Theme13Pr1.exe
+\\Serv31\для сохранения работ\215 группа\Полозюк Даниил\Theme13Pr1\Theme13Pr1\bin\Debug\Theme13Pr1.pdb
+\\Serv31\для сохранения работ\215 группа\Полозюк Даниил\Theme13Pr1\Theme13Pr1\obj\Debug\Theme13Pr1.csproj.AssemblyReference.cache
+\\Serv31\для сохранения работ\215 группа\Полозюк Даниил\Theme13Pr1\Theme13Pr1\obj\Debug\Theme13Pr1.csproj.CoreCompileInputs.cache
+\\Serv31\для сохранения работ\215 группа\Полозюк Даниил\Theme13Pr1\Theme13Pr1\obj\Debug\Theme13Pr1.exe
+\\Serv31\для сохранения работ\215 группа\Полозюк Даниил\Theme13Pr1\Theme13Pr1\obj\Debug\Theme13Pr1.pdb

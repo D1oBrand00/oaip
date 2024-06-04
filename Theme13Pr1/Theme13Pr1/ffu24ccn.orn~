@@ -1,0 +1,39 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Theme13Pr1
+{
+    class Avto
+    {
+        string brand;
+        string color;
+        int skor;
+        public string Brand { get => brand; set => brand = value; }
+        public string Color { get => color; set => color = value; }
+        public int Skor 
+        {
+            get { return skor; }
+            set
+            {
+                if (value > 20 || value < 120)
+                {
+                    skor = value;
+                }
+            }
+        }
+        public Avto() { }
+        public Avto(string brand, string color, int skor)
+        {
+            this.Brand = brand;
+            this.Color = color;
+            this.Skor = skor;
+        }
+        public string ToString()
+        {
+            return $"Бренд - {brand}\nЦвет - {color}\nСкорость - {skor} км/ч";
+        }
+    }
+}
